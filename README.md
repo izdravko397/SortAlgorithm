@@ -1,6 +1,6 @@
 # Sorting Algorithm Visualization Web App
 
-A web application built with Django that visually demonstrates the Quick Sort algorithm. The app allows users to choose the size of the array and observe how the algorithm sorts it step by step.
+A web application built with Django that visually demonstrates the Quick Sort algorithm. The app allows users to choose the size of the array and observe how the algorithm sorts it step by step. [Click here to try it out!](https://sortalgorithm.onrender.com/)
 
 ## Features
 
